@@ -1,0 +1,23 @@
+{
+  "name": "my-compiler",
+  "version": "1.0.0",
+  "description": "struct stack {     int data;     struct stact *next; }; struct stack *pop(struct stack *top); struct stack *push(struct stack *top);",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hbarve1/my-compiler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hbarve1/my-compiler/issues"
+  },
+  "homepage": "https://github.com/hbarve1/my-compiler#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
